@@ -1,5 +1,7 @@
 ## ak-logger
 [![npm version](https://badge.fury.io/js/ak-logger.svg)](https://badge.fury.io/js/ak-logger)
+[![Dependencies](https://david-dm.org/arshadkazmi42/ak-logger.svg)](https://david-dm.org/arshadkazmi42/ak-logger)
+[![npm Downloads](https://img.shields.io/npm/dm/ak-logger.svg)](https://www.npmjs.com/package/ak-logger)
 
 ## How to install?
 
