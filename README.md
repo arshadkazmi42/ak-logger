@@ -8,6 +8,9 @@
 var log = require('ak-logger');
 
 log.debug("DEBUG LOGS", debug);
+
+## Result
+
 =====debug=====
 DEBUG Logs
 =====debug=====
