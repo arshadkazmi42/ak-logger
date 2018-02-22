@@ -1,4 +1,5 @@
 ## ak-logger
+[![npm version](https://badge.fury.io/js/ak-logger.svg)](https://badge.fury.io/js/ak-logger)
 
 ## How to install?
 
