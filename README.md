@@ -22,6 +22,13 @@ DEBUG Logs
 
 ```
 
+[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/0)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/0)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/1)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/1)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/2)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/2)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/3)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/3)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/4)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/4)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/5)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/5)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/6)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/6)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/7)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/7)
+
+
+## Contributing Guidelines
+
+Read the contributing guidelines [here](https://github.com/arshadkazmi42/custom-date-formatting/blob/master/CONTRIBUTING.md)
+
 
 ## NOTE
 
