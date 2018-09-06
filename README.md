@@ -27,7 +27,7 @@ DEBUG Logs
 
 ## Contributing Guidelines
 
-Read the contributing guidelines [here](https://github.com/arshadkazmi42/custom-date-formatting/blob/master/CONTRIBUTING.md)
+Read the contributing guidelines [here](https://github.com/arshadkazmi42/ak-logger/blob/master/CONTRIBUTING.md)
 
 
 ## NOTE
