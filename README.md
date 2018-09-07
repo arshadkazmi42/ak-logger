@@ -30,8 +30,3 @@ DEBUG Logs
 Read the contributing guidelines [here](https://github.com/arshadkazmi42/ak-logger/blob/master/CONTRIBUTING.md)
 
 
-## NOTE
-
-Please drop in any suggestions to <i>arshadkazmi42@gmail.com</i>
-
-
