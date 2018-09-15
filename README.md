@@ -12,7 +12,9 @@
 ```js
 var log = require('ak-logger');
 
-log.debug("DEBUG LOGS", debug);
+const person = { name: 'Gustavo', age: 23 }
+
+log.debug("DEBUG LOGS", person);
 
 ## Result
 
