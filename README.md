@@ -10,15 +10,28 @@
 ## How to use?
 
 ```js
-var log = require('ak-logger');
+var log = require('./index');
 
-log.debug("DEBUG LOGS", debug);
+const person = { name: 'Gustavo', age: 23 }
 
-## Result
+// Printing debug log as an object
+log.debug(person, "DEBUG LOGS");
+/* Result
 
-=====debug=====
-DEBUG Logs
-=====debug=====
+=====DEBUG LOGS=====
+{ name: 'Gustavo', age: 23 }
+=====DEBUG LOGS=====
+*/
+
+// Printing debug log as an string (stringify = true)
+log.debug(person, "DEBUG_LOGS", true)
+/* Result
+
+=====DEBUG_LOGS=====
+{"name":"Gustavo","age":23}
+=====DEBUG_LOGS=====
+*/
+
 
 ```
 
