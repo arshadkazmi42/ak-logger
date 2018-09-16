@@ -10,7 +10,7 @@
 ## How to use?
 
 ```js
-var log = require('./index');
+var log = require('ak-logger');
 
 const person = { name: 'Gustavo', age: 23 }
 
