@@ -7,3 +7,4 @@
 - [Aakash Agarwal](https://github.com/aakash2602)
 - [Alberto Escala](https://github.com/albertoescala)
 - [Luciano Santos](https://github.com/lucianosz7)
+- [Shardul Silswal](https://github.com/shardul08)
