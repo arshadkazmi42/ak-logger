@@ -10,4 +10,5 @@
 - [Alberto Escala](https://github.com/albertoescala)
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Shardul Silswal](https://github.com/shardul08)
+- [Dawid Kozak](https://github.com/StudentDawid)
 - [Ed Zava] (https://github.com/EdZava)
