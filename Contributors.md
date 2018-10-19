@@ -11,4 +11,5 @@
 - [Luciano Santos](https://github.com/lucianosz7)
 - [Shardul Silswal](https://github.com/shardul08)
 - [Dawid Kozak](https://github.com/StudentDawid)
-- [Ed Zava] (https://github.com/EdZava)
+- [Ed Zava](https://github.com/EdZava)
+- [Tato Alves](https://github.com/tatoalves)
