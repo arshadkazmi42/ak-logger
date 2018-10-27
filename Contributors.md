@@ -13,4 +13,5 @@
 - [Shardul Silswal](https://github.com/shardul08)
 - [Dawid Kozak](https://github.com/StudentDawid)
 - [Ed Zava](https://github.com/EdZava)
+- [capturethemoon](https://github.com/capturethemoon)
 - [Tato Alves](https://github.com/tatoalves)
