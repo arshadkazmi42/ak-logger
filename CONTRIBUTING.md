@@ -8,3 +8,4 @@
 6. Push the new branch.
 7. Create a pull request.
 8. Tag the issue, if the pull request is related to a particular issue
+9. (Optional) Give star to the repo if you like the project.
