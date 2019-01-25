@@ -1,8 +1,9 @@
 ## ak-logger
-[![npm version](https://badge.fury.io/js/ak-logger.svg)](https://badge.fury.io/js/ak-logger)
-[![Dependencies](https://david-dm.org/arshadkazmi42/ak-logger.svg)](https://david-dm.org/arshadkazmi42/ak-logger)
-[![npm Downloads](https://img.shields.io/npm/dm/ak-logger.svg)](https://www.npmjs.com/package/ak-logger)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/66e512e5be9845999fed9586e25ff346)](https://www.codacy.com/app/arshadkazmi42/ak-logger?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=arshadkazmi42/ak-logger&amp;utm_campaign=Badge_Grade)
+[![npm Downloads](https://img.shields.io/npm/dt/ak-logger.svg)](https://www.npmjs.com/package/ak-logger)
+[![Package Size](https://img.shields.io/bundlephobia/min/ak-logger.svg)](https://www.npmjs.com/package/ak-logger)
+[![NPM Version](https://img.shields.io/npm/v/ak-logger.svg)](https://www.npmjs.com/package/ak-logger)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/ak-logger.svg)](https://github.com/arshadkazmi42/ak-logger/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/ak-logger.svg)](https://github.com/arshadkazmi42/ak-logger/commits/master)
 
 ## How to install?
 
