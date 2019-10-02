@@ -5,6 +5,7 @@
 - [Vasiliy Vanchuk](https://github.com/vvscode)
 - [Gustavo Freitas](https://github.com/gustafsilva)
 - [Aakash Agarwal](https://github.com/aakash2602)
+- [Shaekh Jamal](https://github.com/shaekhjamal)
 - [Kamal Iqlaas](https://github.com/Iqlaas)
 - [Bibek Luitel](https://github.com/bibekluitel)
 - [Daphnie Donnell](https://github.com/daphnied)
