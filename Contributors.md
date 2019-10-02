@@ -6,6 +6,7 @@
 - [Gustavo Freitas](https://github.com/gustafsilva)
 - [Aakash Agarwal](https://github.com/aakash2602)
 - [Kamal Iqlaas](https://github.com/Iqlaas)
+ [Shakir Jamal](https://github.com/AlphaLazer)
 - [Bibek Luitel](https://github.com/bibekluitel)
 - [Daphnie Donnell](https://github.com/daphnied)
 - [Alberto Escala](https://github.com/albertoescala)
