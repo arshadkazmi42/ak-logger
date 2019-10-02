@@ -17,3 +17,4 @@
 - [Tato Alves](https://github.com/tatoalves)
 - [Nick Weiner](https://github.com/NicholasWeiner)
 - [Masataka Sakai](https://github.com/skimstk)
+- [Nathan Waddell](https://github.com/NathanWaddell121107)
