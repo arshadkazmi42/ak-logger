@@ -7,6 +7,7 @@
 - [Aakash Agarwal](https://github.com/aakash2602)
 - [Shaekh Jamal](https://github.com/shaekhjamal)
 - [Kamal Iqlaas](https://github.com/Iqlaas)
+- [Niranjan Hegde](https://github.com/niranjanhegde144)
 - [Shakir Jamal](https://github.com/AlphaLazer)
 - [Bibek Luitel](https://github.com/bibekluitel)
 - [Daphnie Donnell](https://github.com/daphnied)
