@@ -1,7 +1,10 @@
 ## ak-logger
-[![npm Downloads](https://img.shields.io/npm/dt/ak-logger.svg)](https://www.npmjs.com/package/ak-logger)
-[![Package Size](https://img.shields.io/bundlephobia/min/ak-logger.svg)](https://www.npmjs.com/package/ak-logger)
+
+[![Build](https://github.com/arshadkazmi42/ak-logger/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/ak-logger/actions/workflows/nodejs.yml)
 [![NPM Version](https://img.shields.io/npm/v/ak-logger.svg)](https://www.npmjs.com/package/ak-logger)
+[![NPM Downloads](https://img.shields.io/npm/dt/ak-logger.svg)](https://www.npmjs.com/package/ak-logger)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/ak-logger.svg)](https://github.com/arshadkazmi42/ak-logger)
+[![LICENSE](https://img.shields.io/npm/l/ak-logger.svg)](https://github.com/arshadkazmi42/ak-logger/blob/master/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/ak-logger.svg)](https://github.com/arshadkazmi42/ak-logger/graphs/contributors)
 [![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/ak-logger.svg)](https://github.com/arshadkazmi42/ak-logger/commits/master)
 
@@ -36,11 +39,6 @@ log.debug(person, "DEBUG_LOGS", true)
 
 
 ```
-
-## Contributors
-
-[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/0)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/0)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/1)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/1)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/2)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/2)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/3)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/3)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/4)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/4)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/5)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/5)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/6)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/6)[![](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/images/7)](https://sourcerer.io/fame/arshadkazmi42/arshadkazmi42/ak-logger/links/7)
-
 
 ## Contributing Guidelines
 
